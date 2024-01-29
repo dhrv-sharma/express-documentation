@@ -1,1 +1,0 @@
-javascrypt tutorials notes 
